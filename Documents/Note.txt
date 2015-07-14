@@ -1,0 +1,15 @@
+KPI RTN base on Pentaho CE 5.3
+การเข้าใช้งานระบบสามารถเข้าผ่าน URL -> www.kpi.navy.mi.th
+	User: admin
+	Password: password
+Database Connection
+	Database Type: MySQL
+	Host: 58.97.113.183
+	User: kpi
+	Password: kP#Db@min!15
+	Port: 3306
+	Database: kpi
+FTP
+	Host: 58.97.113.183
+	User: kpi
+	Password: kP#Wb@min!15

@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDADescriptor>
+   <DataSources>
+      <Connection id="paramYear_DF" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="paramYear_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="paramPeriod_DF" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="paramPeriod_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0501000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0502000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0503000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0504000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0505000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0506000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0507000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0508000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0509000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0510000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0511000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0512000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0514000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0515000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0516000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0517000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0520000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0521000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0522000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0523000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0524000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0525000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0526000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0527000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0528000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0529000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0530000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0531000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0532000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0534000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0535000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0536000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0537000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0540000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0551000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0552000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0553000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0554000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+      <Connection id="gaugeOrg0555000000_DS" type="sql.jndi">
+         <Jndi>rtn_kpi</Jndi>
+      </Connection>
+   </DataSources>
+   <DataAccess access="public" cache="true" cacheDuration="3600" connection="paramYear_DF"
+               id="paramYear_DF"
+               type="sql">
+      <Columns/>
+      <Parameters/>
+      <Query>select distinct
+    year + 543 AS year
+from period
+ORDER BY 1 desc
+limit 1</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600" connection="paramYear_DS"
+               id="paramYear_DS"
+               type="sql">
+      <Columns/>
+      <Parameters/>
+      <Query>select distinct
+    year + 543 AS year
+from period
+ORDER BY 1 desc</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600" connection="paramPeriod_DF"
+               id="paramPeriod_DF"
+               type="sql">
+      <Columns/>
+      <Parameters/>
+      <Query>select distinct
+    period_desc AS period_no 
+from period
+ORDER BY period_no
+limit 1</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600" connection="paramPeriod_DS"
+               id="paramPeriod_DS"
+               type="sql">
+      <Columns/>
+      <Parameters/>
+      <Query>select distinct
+    period_desc AS period_no 
+from period
+ORDER BY period_no</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0501000000_DS"
+               id="gaugeOrg0501000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0501000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0502000000_DS"
+               id="gaugeOrg0502000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0502000000')
+pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0503000000_DS"
+               id="gaugeOrg0503000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0503000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0504000000_DS"
+               id="gaugeOrg0504000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0504000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0505000000_DS"
+               id="gaugeOrg0505000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0505000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0506000000_DS"
+               id="gaugeOrg0506000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0506000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0507000000_DS"
+               id="gaugeOrg0507000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0507000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0508000000_DS"
+               id="gaugeOrg0508000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0508000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0509000000_DS"
+               id="gaugeOrg0509000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0509000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0510000000_DS"
+               id="gaugeOrg0510000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0510000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0511000000_DS"
+               id="gaugeOrg0511000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0511000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0512000000_DS"
+               id="gaugeOrg0512000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0512000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0514000000_DS"
+               id="gaugeOrg0514000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0514000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0515000000_DS"
+               id="gaugeOrg0515000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0515000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0516000000_DS"
+               id="gaugeOrg0516000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0516000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0517000000_DS"
+               id="gaugeOrg0517000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0517000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0520000000_DS"
+               id="gaugeOrg0520000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0520000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0521000000_DS"
+               id="gaugeOrg0521000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0521000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0522000000_DS"
+               id="gaugeOrg0522000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0522000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0523000000_DS"
+               id="gaugeOrg0523000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0523000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0524000000_DS"
+               id="gaugeOrg0524000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0524000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0525000000_DS"
+               id="gaugeOrg0525000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0525000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0526000000_DS"
+               id="gaugeOrg0526000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0526000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0527000000_DS"
+               id="gaugeOrg0527000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0527000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0528000000_DS"
+               id="gaugeOrg0528000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0528000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0529000000_DS"
+               id="gaugeOrg0529000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0529000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0530000000_DS"
+               id="gaugeOrg0530000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0530000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0531000000_DS"
+               id="gaugeOrg0531000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0531000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0532000000_DS"
+               id="gaugeOrg0532000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0532000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0534000000_DS"
+               id="gaugeOrg0534000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0534000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0535000000_DS"
+               id="gaugeOrg0535000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0535000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0536000000_DS"
+               id="gaugeOrg0536000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0536000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0537000000_DS"
+               id="gaugeOrg0537000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0537000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0540000000_DS"
+               id="gaugeOrg0540000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0540000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0551000000_DS"
+               id="gaugeOrg0551000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0551000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0552000000_DS"
+               id="gaugeOrg0552000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0552000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0553000000_DS"
+               id="gaugeOrg0553000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0553000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0554000000_DS"
+               id="gaugeOrg0554000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0554000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+   <DataAccess access="public" cache="true" cacheDuration="3600"
+               connection="gaugeOrg0555000000_DS"
+               id="gaugeOrg0555000000_DS"
+               type="sql">
+      <Columns/>
+      <Parameters>
+         <Parameter default="" name="paramYear" type="String"/>
+         <Parameter default="" name="paramPeriod" type="String"/>
+      </Parameters>
+      <Query>select 
+    round(
+    	sum(kr.kpi_weight * kr.actual_score) / (
+			select sum(kpi_weight) 
+			from kpi_result 
+			where organization_id = 1
+		), 2
+	) as poltData
+from kpi_result kr
+INNER JOIN period pd on pd.period_id = kr.period_id
+where kr.organization_id = (select distinct organization_id from organization where organization_code = '0555000000')
+and pd.year+543 = ${paramYear}
+and pd.period_no = (SELECT period_no FROM period WHERE period_desc = ${paramPeriod})
+GROUP BY kr.organization_id</Query>
+   </DataAccess>
+</CDADescriptor>

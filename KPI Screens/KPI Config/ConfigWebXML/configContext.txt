@@ -1,0 +1,1 @@
+<param-value>pentaho-spring-beans.xml,/WEB-INF/spring/hibernate-config.xml</param-value>

@@ -1,0 +1,23 @@
+<!-- START KPI UPLOADFILE SERVLET -->
+ <servlet>
+    <display-name>FileUploadServlet</display-name>
+    <servlet-name>FileUploadServlet</servlet-name>
+    <servlet-class>org.gj.man.FileUploadHandler</servlet-class>
+  </servlet>
+   
+  <servlet-mapping>
+    <servlet-name>FileUploadServlet</servlet-name>
+    <url-pattern>/uploadFile</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <display-name>FileKPIResultUploadServlet</display-name>
+    <servlet-name>FileKPIResultUploadServlet</servlet-name>
+    <servlet-class>org.gj.man.FileResultUploadServlet</servlet-class>
+  </servlet>
+   
+  <servlet-mapping>
+    <servlet-name>FileKPIResultUploadServlet</servlet-name>
+    <url-pattern>/uploadFileResult</url-pattern>
+  </servlet-mapping>
+<!-- END KPI UPLOADFILE SERVLET -->
